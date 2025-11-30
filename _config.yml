@@ -1,7 +1,7 @@
 title: NetBioMed 2025
 #> # this means to ignore newlines until "baseurl:"
 description: The official website for NetBioMed satellite
-baseurl: "/NetBioMed2025" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "netbiomed-symposium.github.io/NetBioMed2025/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
