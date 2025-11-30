@@ -13,7 +13,7 @@
                     {% for about_data in site.data.home_about %}
                         <li class="{{ about_data.inverted }}">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="{{ "/css/img/{{ about_data.img }}" | prepend: site.baseurl }}" alt="">
+                                <img class="img-circle img-responsive" src="{{ site.baseurl }}/css/img/{{ about_data.img }}" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
