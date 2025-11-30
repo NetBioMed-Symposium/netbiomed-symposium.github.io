@@ -9,12 +9,12 @@
     - name: Barcelona Supercomputing Center
       img: Logo_BSC.png
       contact: https://www.bsc.es/
-
-- name: "Second Row"
-  row:
     - name: Bioinfo4Women
       img: b4wg.png
       contact: https://bioinfo4women.bsc.es/
+
+- name: "Second Row"
+  row:
     - name: SWOL Universiteitsfons Limburg
       img: SWOL.webp
       contact: https://www.ufl-swol.nl/
