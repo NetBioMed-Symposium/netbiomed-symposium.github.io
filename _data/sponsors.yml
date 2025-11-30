@@ -1,4 +1,4 @@
-- row1:
+- row:
   - name: NetBio COSI
     img: Netbio.png
     contact: https://cosi.iscb.org/wiki/NetBio:Home
@@ -11,7 +11,7 @@
     img: Logo_BSC.png
     contact: https://www.bsc.es/
 
-- row2:
+- row:
   - name: Bioinfo4Women
     img: b4wg.png
     contact: https://bioinfo4women.bsc.es/
