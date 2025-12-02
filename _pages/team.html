@@ -28,7 +28,7 @@ title: Team Member
   {% for team in site.data.team_program %}
   <div class="team-member">
     <img class="team-photo" src="{{ site.baseurl }}/css/img/team/{{ team.img }}">
-    <h3>{{ team.name }}</h3>
+    <a class="contact" href="{{ team.contact }}"> <h3>{{ team.name }}</h3> </a>
     <span>{{ team.position }}</span>
       <a class="email" href="mailto:{{ team.email }}"><span >E-Mail</span></a>
   </div> 
