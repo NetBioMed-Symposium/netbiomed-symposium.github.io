@@ -1,109 +1,94 @@
-- time: 8:30 - 8:40
+- time: 9:00 am - 9:10 am
   speaker: "Opening Remarks"
   position: ""
   title: ""
 
-- time: 8:40 - 9:10
-  speaker: "Kristel Van Steen"
-  position: "Université de Liège"
-  title: "Individual-Specific Networks: Bridging population data and personalized insights for advanced patient subtyping"
-
-- time: 9:10 - 9:40
-  speaker: "Nataša Pržulj"
-  position: "Mohamed bin Zayed University of Artificial Intelligence"
-  title: "AI for multi-omic network fusion to personalize medicine"
-
-- time: 9:40 - 10:00
-  speaker: "Martin Guillemaud</b>, M. Chavez, V. Navarro, Lawrence J. Hirsch, A. Hanin<b>"
-  position: "Paris Brain Institute, INRIA, Sorbonne University"
-  title: "Network-Based Clustering of Cytokine Profiles Reveals Inflammatory Heterogeneity in ICU Patients with Severe Unexplained Epileptic Seizures"
-
-- time: 10:00 - 10:20
-  speaker: "</b>Alejandro Adriaque Lozano, Hasan Balci, <b>Martina Kutmon"
-  position: "Maastricht University"
-  title: "Using Knowledge Graphs for post-COVID Drug Repurposing"
-
-- time: 10:20 - 10:30
-  speaker: "Filipi Silva</b>, Andreas	Bueckle, Katy Börner<b>"
-  position: "Indiana University"
-  title: "Human Reference Atlas: Embeddings of Single-Cell Data"
-  
-#  speaker: "Poster Session 1"
-#  position: ""
-#  title: ""
-
-- time: 10:30 - 11:00
-  speaker: "Coffee Break"
+- time: 9:10 am - 9:40 am
+  speaker: "Invited Talk 1"
   position: ""
   title: ""
 
-- time: 11:00 - 11:30
-  speaker: "Anna Niarakis"
-  position: "Centre for Integrative Biology (CBI) of Toulouse"
-  title: "Digital twins for complex human diseases: From pathways to cells to systems.<br>Focus on Rheumatoid Arthritis"
+- time: 9:40 am - 10:00 am
+  speaker: "Selected Talk 1"
+  position: ""
+  title: ""
 
-- time: 11:30 - 12:00
-  speaker: "Luis M. Rocha"
-  position: "Binghamton University"
-  title: "Understanding multiscale factors in disease towards digital twins from a network science perspective"
+- time: 10:00 am - 10:15 am
+  speaker: "Break"
+  position: ""
+  title: ""
 
-- time: 12:00 - 12:20
-  speaker: "Iker Núñez-Carpintero</b>, Jörg Menche, Julia Guthrie<b>"
-  position: "Ludwig Boltzmann Institute for Network Medicine at the University of Vienna"
-  title: "Deep integrative multilayer network-based analysis of rare neuromuscular disorders reveals overlapping multiscale endotypes involved in cardiac and skeletal muscle myopathies"
+- time: 10:15 am - 10:45 am
+  speaker: "Invited Talk 2"
+  position: ""
+  title: ""
 
-- time: 12:20 - 12:30
-  title: "Comorbidity Networks From Population-Wide Health Data: Aggregated Data of 8.9M Hospital Patients (1997-2014)"
-  position: "Medical University of Vienna/ Complexity Science Hub/ Supply Chain Intelligence Institute Austria"
-  speaker: "Elma Dervic"
+- time: 10:45 am - 11:15 am
+  speaker: "Invited Talk 3"
+  position: ""
+  title: ""
 
-- time: 12:30 - 14:10
+- time: 11:15 am - 11:35 am
+  speaker: "Selected Talk 2"
+  position: ""
+  title: ""
+
+- time: 11:35 am - 11:55 am  
+  speaker: "Poster Session 1"
+  position: ""
+  title: ""
+
+- time: 11:55 am - 1:30 pm
   speaker: "Lunch Break"
   position: ""
   title: ""
 
-- time: 14:10 - 14:40
-  speaker: "Laura Cantini"
-  position: "Institut Pasteur"
-  title: "Multi-modal learning for single-cell data integration"
+- time: 1:30 pm - 2:00 pm
+  speaker: "Invited Talk 4"
+  position: ""
+  title: ""
 
-- time: 14:40 - 15:15
-  speaker: "Marco Manca"
-  position: "SCImPULSE, BioDynaMo"
-  title: "To know what we know. From the science of emergence to BioDynaMo."
+- time: 2:00 pm - 2:30 pm
+  speaker: "Invited Talk 5"
+  position: ""
+  title: ""
 
-- time: 15:15 - 15:35
-  speaker: "Manuel Ruiz-Botella</b>, Roger Guimerà, Marta Sales-Pardo<b>"
-  position: "Universitat Rovira i Virgili"
-  title: "CoCoGraph: A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules."
+- time: 2:30 pm - 2:50 pm
+  speaker: "Selected Talk 3"
+  position: ""
+  title: ""
 
-- time: 15:35 - 15:55
-  speaker: "Nolan Newman</b>, Tatiana Belova, and Marieke Kuijjer<b>"
-  position: "Norwegian Center for Molecular Medicine (University of Oslo)"
-  title: "SiSaNA: A Python-based command line interface for Single Sample Network Analysis"
-
-- time: 15:55 - 16:30
+- time: 2:50 pm - 3:05 pm
   speaker: "Coffee Break"
   position: ""
   title: ""
 
-- time: 16:30 - 17:00
-  speaker: "Rebekka Burkholtz"
-  position: "CISPA Helmholtz Center for Information Security"
-  title: "Guiding gene regulatory process inference by domain knowledge"
+- time: 3:05 pm - 3:35 pm
+  speaker: "Invited Talk 6"
+  position: ""
+  title: ""
 
+- time: 3:35 pm - 4:05 pm
+  speaker: "Invited Talk 7"
+  position: ""
+  title: ""
 
-- time: 17:00 - 17:20
-  speaker: "</b>Charley Presigny, Marie-Constance Corsi, and <b>Fabrizio de Vico Fallani"
-  position: "Inria - Paris Brain Institute"
-  title: "Node-layer duality reveals latent brain network disruptions in Alzheimer’s disease"
+- time: 4:05 pm - 4:25 pm
+  speaker: "Selected Talk 4"
+  position: ""
+  title: ""
 
-- time: 17:20 - 18:00
+- time: 4:25 pm - 4:45 pm  
+  speaker: "Poster Session 2"
+  position: ""
+  title: ""
+
+- time: 4:45 pm - 5:45 pm
   speaker: "Panel Discussion"
   position: ""
-  title: "How can network science inform AI biomedical applications?"
+  title: "Crossing scales from epigenomics to therapeutics"
 
-- time: 18:00 - 18:10
+- time: 5:45 pm - 6:00 pm
   speaker: "Closing Remarks"
   position: ""
   title: ""
