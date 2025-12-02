@@ -1,9 +1,5 @@
-- name: Marta Liber
-  position: Gulbenkian Institute for Molecular Medicine
-  img: marta.jpg
-  email: mliber.pt@gmail.com
-
-- name: Jon Sanchez-Valle
-  position: Barcelona Supercomputing Center
-  img: jon.jpg
-  email: jon.sanchez@bsc.es
+- name: Felipe Xavier Costa
+  position: Católica Biomedical Research Centre (Universidade Católica Portuguesa)
+  img: felipe.jpg
+  email: fcosta@binghamton.edu
+  contact: https://fxcosta-phd.github.io/

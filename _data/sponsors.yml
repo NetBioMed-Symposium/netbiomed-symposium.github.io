@@ -1,29 +1,5 @@
 - name: "First Row"
   row:
-    - name: NetBio COSI
-      img: Netbio.png
-      contact: https://cosi.iscb.org/wiki/NetBio:Home
-    - name: Cancer, Ageing & Rejuvenation (CARE) Graduate School 
-      img: Logo-CARe.png
-      contact: https://care-graduateschool.fr/about/
-    - name: Barcelona Supercomputing Center
-      img: Logo_BSC.png
-      contact: https://www.bsc.es/
-    - name: Bioinfo4Women
-      img: b4wg.png
-      contact: https://bioinfo4women.bsc.es/
-
-- name: "Second Row"
-  row:
-    - name: SWOL Universiteitsfons Limburg
-      img: SWOL.webp
-      contact: https://www.ufl-swol.nl/
-    - name: Maastricht University
-      img: Maastricht-University.png
-      contact: https://www.maastrichtuniversity.nl/
-    - name: PLOS Complex Systems
-      img: PLOS-logo.png
-      contact: https://journals.plos.org/complexsystems/
-    - name: CBeRa Project
-      img: CBeRa_Logo_02.png
-      contact: https://www.cberaproject.eu/
+    - name: Sponsor
+      img: TBD.jpg
+      contact: 
