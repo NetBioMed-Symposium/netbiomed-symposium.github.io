@@ -25,7 +25,7 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
+  - title: x-twitter
     url: https://x.com/netbiomed2025
   - title: bluesky
     url: https://bsky.app/profile/netbiomed2025.bsky.social
