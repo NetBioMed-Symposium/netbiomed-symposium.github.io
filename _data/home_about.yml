@@ -2,34 +2,34 @@
   img: icon-faq.jpeg
   name: Submission guidelines
   info: Submission is currently closed
-  link: /2025/faqs
+  link: /faqs
 
 - inverted: timeline-inverted
   img: icon-about.jpeg
   name: What is NetBioMed 2025?
   info: Read more about our symposium
-  link: "/2025/about"
+  link: /about
 
 - inverted: 
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out our program
-  link: /2025/agenda
+  link: /agenda
 
 - inverted: timeline-inverted
   img: icon-team.jpeg
   name: Organization
   info: Find out the organizers
-  link: /2025/team
+  link: /team
 
 - inverted: 
   img: icon-venue.jpeg
   name: Venue
   info: Learn more about our location
-  link: /2025/venue
+  link: /venue
 
 - inverted: timeline-inverted
   img: booklet-icon.png
   name: Sponsorship
   info: Learn how to become a sponsor
-  link: /2025/sponsors
+  link: /sponsors
