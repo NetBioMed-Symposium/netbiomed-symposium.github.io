@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /faqs
+permalink: /submission
 title: Submission Guidelines
 ---
 <!--background color-->
@@ -11,28 +11,34 @@ title: Submission Guidelines
 <div class="event black-frame">
     <h1 class="title" id="faqs">{{ page.title }}</h1>
 
+    <!--
+
     <p>Submissions are closed. Please register for NetSci 2025 to participate in our symposium.</p>
 
     <a href="https://netsci2025.github.io/registration/" class="page-scroll btn btn-xl">Register Here</a>
 
     <p>Apart from your NetSci registration we would like to know if you will attend our symposium.</p>
     <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSci1zfeO2zrZdYHtOdAZYzu32TUgRpElE904V_Hz31qlx6JdA/viewform" class="page-scroll btn btn-xl">Please, fill out this form to inform us of your registration.</a></p>
+    -->
 
-    <!--
-    <p>All submissions will undergo a rigorous review process to ensure quality and relevance. Accepted contributions will be assigned a talk or poster. Overall submission length should be up to 3 pages including the following guidelines.<p>
+    
+    <p>
+        All submissions will undergo a rigorous review process to ensure quality and relevance. 
+        Accepted contributions will be assigned a talk or poster. 
+        Overall submission length should be up to 3 pages including the following guidelines.<p>
     <ol>
-        {% for faq in site.data.twenty_25.faqs %}
-            <li><b>{{ faq.question }}</b>
-                <br>{{ faq.answer }}<br><br>
+        {% for info in site.data.submission_guide %}
+            <li><b>{{ info.question }}</b>
+                <br>{{ info.answer }}<br><br>
             </li>
         {% endfor %}
     </ol>
 
-    <a href="https://easychair.org/my/conference?conf=netbiomed2025" class="page-scroll btn btn-xl">Submission Closed</a>
+    <a href="https://easychair.org/my/conference?conf=netbiomed2026" class="page-scroll btn btn-xl">Submit your contribution</a>
 
     <p>
-        The submission period has closed. However, you can still register to the main conference by clicking <a href="https://netsci2025.github.io/registration/">here</a>. For further enquiries, kindly submit your question via the <a href="/#contacts">contact us</a> 
+        For further enquiries, kindly submit your question via the <a href="/#contacts">contact us</a> 
         page or send us an email at <a href="mailto:netbiomed@gmail.com">netbiomed@gmail.com</a> 
     </p>
-    -->
+    
 </div>
