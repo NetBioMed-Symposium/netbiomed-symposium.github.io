@@ -1,9 +1,3 @@
-- inverted: 
-  img: icon-faq.jpeg
-  name: Submission guidelines
-  info: Submission is currently closed
-  link: /submission
-
 - inverted: timeline-inverted
   img: icon-about.jpeg
   name: What is NetBioMed 2026?
@@ -11,16 +5,16 @@
   link: /about
 
 - inverted: 
+  img: icon-faq.jpeg
+  name: Submission guidelines
+  info: Submissions are open
+  link: /submission
+
+- inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out our program
   link: /agenda
-
-- inverted: timeline-inverted
-  img: icon-team.jpeg
-  name: Organization
-  info: Find out the organizers
-  link: /team
 
 - inverted: 
   img: icon-venue.jpeg
@@ -29,6 +23,12 @@
   link: /venue
 
 - inverted: timeline-inverted
+  img: icon-team.jpeg
+  name: Organization
+  info: Find out the organizers
+  link: /team
+
+- inverted:
   img: booklet-icon.png
   name: Sponsorship
   info: Learn how to become a sponsor
