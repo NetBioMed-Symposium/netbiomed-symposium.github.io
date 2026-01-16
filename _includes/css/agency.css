@@ -363,7 +363,7 @@ header .intro-text .intro-lead-in {
     font-style: italic;
     font-size: 17px;
     line-height: 17px;
-    color: {{ site.data.template.color.secondary-dark }};
+    color: #{{ site.data.template.color.secondary-dark }};
     /*color: #984dee;*/
 }
 
@@ -375,7 +375,7 @@ header .intro-text .intro-heading {
     font-weight: 700;
     font-size: 28px;
     line-height: 28px;
-    color: {{ site.data.template.color.secondary }};
+    color: #{{ site.data.template.color.secondary }};
     /*color: #1a940d;*/
 }
 
@@ -391,7 +391,7 @@ header .intro-text .intro-heading {
         font-size: 30px;
         font-style: italic;
         line-height: 30px;
-        color: {{ site.data.template.color.secondary }};
+        color: #{{ site.data.template.color.secondary }};
     }
 
     header .intro-text .intro-heading {
@@ -401,7 +401,7 @@ header .intro-text .intro-heading {
         font-size: 50px;
         font-weight: 700;
         line-height: 50px;
-        color: {{ site.data.template.color.secondary-dark }};
+        color: #{{ site.data.template.color.secondary-dark }};
     }
 }
 
