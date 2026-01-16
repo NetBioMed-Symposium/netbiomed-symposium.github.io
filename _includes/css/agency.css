@@ -722,9 +722,9 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/css/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/css/img/official_logo.png');
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 section#contact .section-heading {
