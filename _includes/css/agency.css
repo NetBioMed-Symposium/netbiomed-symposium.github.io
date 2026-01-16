@@ -721,10 +721,10 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/css/img/official_logo.png');
+    background-color: #{{ site.data.template.color.secondary }};
+    /*background-image: url('{{ site.baseurl }}/css/img/official_logo.png');*/
     background-position: center;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
