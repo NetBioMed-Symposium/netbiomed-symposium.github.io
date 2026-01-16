@@ -338,15 +338,17 @@ fieldset[disabled] .btn-xl.active {
 header {
     height: 100vh;
     text-align: center;
-    color: #fff;
+    color: #984dee;
+    /*
     background-attachment: scroll;
-    /*background-image: url('{{ site.baseurl }}/css/img/header-bg.jpg');*/
+    background-image: url('{{ site.baseurl }}/css/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    */
 }
 
 header .intro-text {
