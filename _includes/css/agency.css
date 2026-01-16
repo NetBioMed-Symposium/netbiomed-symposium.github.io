@@ -352,51 +352,55 @@ header {
 }
 
 header .intro-text {
-    padding-top: 25vh;
+    padding-top: 10vh;
     padding-bottom: 50px;
-    color: {{ site.data.template.color.secondary }};
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 22px;
+    /*font-family: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif';*/
     font-style: italic;
-    line-height: 22px;
+    font-size: 17px;
+    line-height: 17px;
+    color: {{ site.data.template.color.secondary-dark }};
+    /*color: #984dee;*/
 }
 
 header .intro-text .intro-heading {
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 40px;
+    /*font-family: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif';*/
     font-weight: 700;
-    line-height: 40px;
-    color: {{ site.data.template.color.primary }};
+    font-size: 28px;
+    line-height: 28px;
+    color: {{ site.data.template.color.secondary }};
+    /*color: #1a940d;*/
 }
 
 @media(min-width:768px) {    
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 120px;
         padding-bottom: 200px;
-        color: {{ site.data.template.color.secondary }};
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom: 20px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
+        font-size: 30px;
         font-style: italic;
-        line-height: 40px;
+        line-height: 30px;
+        color: {{ site.data.template.color.secondary }};
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 30px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
-        font-size: 75px;
+        font-size: 50px;
         font-weight: 700;
-        line-height: 75px;
+        line-height: 50px;
         color: {{ site.data.template.color.primary }};
     }
 }
