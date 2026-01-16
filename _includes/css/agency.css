@@ -338,7 +338,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     height: 100vh;
     text-align: center;
-    color: #984dee;
+    color: #fff;
     /*
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/css/img/header-bg.jpg');
@@ -354,6 +354,7 @@ header {
 header .intro-text {
     padding-top: 25vh;
     padding-bottom: 50px;
+    color: {{ site.data.template.color.secondary }};
 }
 
 header .intro-text .intro-lead-in {
@@ -371,12 +372,14 @@ header .intro-text .intro-heading {
     font-size: 40px;
     font-weight: 700;
     line-height: 40px;
+    color: {{ site.data.template.color.primary }};
 }
 
 @media(min-width:768px) {    
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
+        color: {{ site.data.template.color.secondary }};
     }
 
     header .intro-text .intro-lead-in {
@@ -394,6 +397,7 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+        color: {{ site.data.template.color.primary }};
     }
 }
 
