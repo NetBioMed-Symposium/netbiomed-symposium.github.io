@@ -721,7 +721,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: #{{ site.data.template.color.secondary-dark }};
     /*background-image: url('{{ site.baseurl }}/css/img/official_logo.png');*/
     background-position: center;
     background-repeat: no-repeat;
