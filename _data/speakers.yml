@@ -24,3 +24,17 @@
   subtitle: Harvard Medical School
   thumbnail: michelle.jpg
   url: https://michellemli.com/
+
+
+- title: Donna Slonim
+  name: SloinLab
+  subtitle: Tufts University
+  thumbnail: sloim.png
+  url: https://www.cs.tufts.edu/~slonim/
+
+
+- title: Mike Calderwood
+  name: MikeDFCI
+  subtitle: Dana-Farber Cancer Institute
+  thumbnail: mike.png
+  url: https://ccsb.dana-farber.org/mike.html
