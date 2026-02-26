@@ -1,5 +1,9 @@
 - name: "First Row"
   row:
-    - name: Sponsor
-      img: TBD.jpg
-      contact: 
+    - name: CBeRa Project
+      img: CBeRa_Logo_02.png
+      contact: https://www.cberaproject.eu/
+    - name: PEPR Cell-ID
+      img: Cell_ID_couleur.png
+      contact: https://www.pepr-cell-id.fr/
+
