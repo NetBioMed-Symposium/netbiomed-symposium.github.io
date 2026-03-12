@@ -1,9 +1,11 @@
 - name: "First Row"
   row:
-    - name: CBeRa Project
-      img: CBeRa_Logo_02.png
-      contact: https://www.cberaproject.eu/
     - name: PEPR Cell-ID
       img: Cell_ID_couleur.png
       contact: https://www.pepr-cell-id.fr/
-
+    - name: CBeRa Project
+      img: CBeRa_Logo_02.png
+      contact: https://www.cberaproject.eu/
+    - name: PLOS Complex Systems
+      img: PLOS.png
+      contact: https://journals.plos.org/complexsystems/
