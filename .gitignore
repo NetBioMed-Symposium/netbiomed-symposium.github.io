@@ -1,4 +1,5 @@
 _site/
 .sass-cache/
+.submissions/
 .jekyll-metadata
 sanity_check.html
