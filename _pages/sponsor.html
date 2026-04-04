@@ -22,17 +22,4 @@ title: Sponsors
 <!-- <p> Sponsor packages available: Bronze, Silver and Gold (300 €, 600€, 1000€). </p>-->
 <!-- <a href="mailto:netbiomed@gmail.com" class="page-scroll btn btn-xl">Contact Us</a> -->
 
-<div class="black-frame about">
-    <h1>Current Sponsors</h1>
-    {% for sponsor_list in site.data.sponsors %}
-        <div class="row">
-            {% for sponsor in sponsor_list.row %}
-                <div class="col-md-3 col-sm-6">
-                    <a href="{{ sponsor.contact }}" class="portfolio-link" data-toggle="modal">
-                        <img src="{{ site.baseurl }}/css/img/sponsors/{{ sponsor.img }}" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-            {% endfor %}
-        </div>
-    {% endfor %}
-</div>
+{% include data/sponsors.html %}
