@@ -93,6 +93,8 @@ h4 {
 
 .img-centered {
     margin: 0 auto;
+    height: 250px;
+    width: auto;
 }
 
 aside.clients {
