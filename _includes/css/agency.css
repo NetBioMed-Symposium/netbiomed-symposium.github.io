@@ -93,6 +93,7 @@ h4 {
 
 .img-centered {
     margin: 0 auto;
+    object-fit: contain;
 }
 
 aside.clients {
