@@ -1,94 +1,99 @@
-- time: 9:00 am - 9:10 am
+- time: "9:00 AM - 9:05 AM"
   speaker: "Opening Remarks"
   position: ""
   title: ""
 
-- time: 9:10 am - 9:40 am
-  speaker: "Invited Talk 1"
+- time: "9:05 AM - 9:35 AM"
+  speaker: "John Quackenbush"
+  position: ""
+  title: "Embracing Biological Complexity through Network Science"
+
+- time: "9:35 AM - 10:05 AM"
+  speaker: "Sushmita Roy"
+  position: ""
+  title: "Dissecting cell state and cell fate dynamics with cis and trans GRNs"
+
+- time: "10:05 AM - 10:20 AM"
+  speaker: "Eli Newby and Andrew Dhawan"
+  position: ""
+  title: "Multilayer Network Analysis Illuminates MicroRNA Determinants of Cancer"
+
+- time: "10:20 AM - 10:30 AM"
+  speaker: "Some words from our Sponsors"
   position: ""
   title: ""
 
-- time: 9:40 am - 10:00 am
-  speaker: "Selected Talk 1"
-  position: ""
-  title: ""
-
-- time: 10:00 am - 10:15 am
-  speaker: "Break"
-  position: ""
-  title: ""
-
-- time: 10:15 am - 10:45 am
-  speaker: "Invited Talk 2"
-  position: ""
-  title: ""
-
-- time: 10:45 am - 11:15 am
-  speaker: "Invited Talk 3"
-  position: ""
-  title: ""
-
-- time: 11:15 am - 11:35 am
-  speaker: "Selected Talk 2"
-  position: ""
-  title: ""
-
-- time: 11:35 am - 11:55 am  
-  speaker: "Poster Session 1"
-  position: ""
-  title: ""
-
-- time: 11:55 am - 1:30 pm
-  speaker: "Lunch Break"
-  position: ""
-  title: ""
-
-- time: 1:30 pm - 2:00 pm
-  speaker: "Invited Talk 4"
-  position: ""
-  title: ""
-
-- time: 2:00 pm - 2:30 pm
-  speaker: "Invited Talk 5"
-  position: ""
-  title: ""
-
-- time: 2:30 pm - 2:50 pm
-  speaker: "Selected Talk 3"
-  position: ""
-  title: ""
-
-- time: 2:50 pm - 3:05 pm
+- time: "10:30 AM - 11:00 AM"
   speaker: "Coffee Break"
   position: ""
   title: ""
 
-- time: 3:05 pm - 3:35 pm
-  speaker: "Invited Talk 6"
+- time: "11:00 AM - 11:30 AM"
+  speaker: "Donna Slonim"
+  position: ""
+  title: "Efficient molecular network inference for precision medicine"
+
+- time: "11:30 AM - 12:00 PM"
+  speaker: "Mike Calderwood"
+  position: ""
+  title: "Interactome Networks and Human Disease"
+
+- time: "12:00 PM - 12:15 PM"
+  speaker: "Hetvi Shah, Rushabh Shah, Drashti Mehta and Parth Pandya"
+  position: ""
+  title: "Integrated transcriptomics and miRNA-mRNA network analysis reveals Kisspeptin-10 mediated regulation of EMT and apoptosis in glioblastoma"
+
+- time: "12:15 AM - 12:30 PM"
+  speaker: "Poster Flash Talks"
   position: ""
   title: ""
 
-- time: 3:35 pm - 4:05 pm
-  speaker: "Invited Talk 7"
+- time: "12:30 PM - 2:30 PM"
+  speaker: "Lunch Break"
   position: ""
   title: ""
 
-- time: 4:05 pm - 4:25 pm
-  speaker: "Selected Talk 4"
+- time: "2:30 PM - 3:00 PM"
+  speaker: "Dariusz Plewczynski"
+  position: ""
+  title: "Graph-ical: Bridging Artificial Intelligence, Polymer Biophysics, and Experimental 3D Genomics for Human Chromatin Biology"
+
+- time: "3:00 PM - 3:30 PM"
+  speaker: "Michelle Li"
+  position: ""
+  title: "Geometric Deep Learning for Rare Disease Diagnosis"
+
+- time: "3:30 PM - 3:45 PM"
+  speaker: "Hetvi Shah, Rushabh Shah, Drashti Mehta and Dr. Parth Pandya"
+  position: ""
+  title: "Integrated AI-Driven Multinetwork Modeling of 3D Genome Organization and Regulatory Function"
+
+- time: "3:45 PM - 4:00 PM"
+  speaker: "Neda Amirirad and Hiroki Sayama"
+  position: ""
+  title: "Across-Visit Consensus Community Detection in Systemic Lupus Erythematosus (SLE) Gene Co-expression Temporal Network Data"
+
+- time: "4:00 PM - 4:30 PM"
+  speaker: "Coffee Break"
   position: ""
   title: ""
 
-- time: 4:25 pm - 4:45 pm  
-  speaker: "Poster Session 2"
+- time: "4:30 PM - 5:00 PM"
+  speaker: "Ed Silverman"
   position: ""
-  title: ""
+  title: "Network Medicine Approaches to Chronic Obstructive Pulmonary Disease"
 
-- time: 4:45 pm - 5:45 pm
+- time: "5:00 PM - 5:15 PM"
+  speaker: "Garo Kerdelian, Bnaya Gross and Albert-László Barabási"
+  position: ""
+  title: "Network-driven discovery of food compounds for aging therapeutics"
+
+- time: "5:15 PM - 5:45 PM"
   speaker: "Panel Discussion"
   position: ""
   title: "Crossing scales from epigenomics to therapeutics"
 
-- time: 5:45 pm - 6:00 pm
+- time: "5:45 PM - 6:00 PM"
   speaker: "Closing Remarks"
   position: ""
   title: ""
