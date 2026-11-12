@@ -1,47 +1,5 @@
-- title: John Quackebush
-  name: QuackebushLab
-  subtitle: Harvard T.H. Chan School of Public Health
-  thumbnail: quackenbush.webp
-  url: https://hsph.harvard.edu/profile/john-quackenbush/
-
-
-- title: Edwin K. Silverman
-  name: SilvermanLab
-  subtitle: Brigham and Women's Hospital
-  thumbnail: edwin.jpg
-  url: https://cdnm.bwh.harvard.edu/edwin-k-silverman-md-phd/
-
-
-- title: Sushmita Roy
-  name: RoyLab
-  subtitle: Wisconsin Institute for Discovery (WID)
-  thumbnail: sushmita.png
-  url: https://roylab.discovery.wisc.edu/
-
-
-- title: Michelle Li
-  name: LiPhd
-  subtitle: Harvard Medical School
-  thumbnail: michelle.jpg
-  url: https://michellemli.com/
-
-
-- title: Donna Slonim
-  name: SloinLab
-  subtitle: Tufts University
-  thumbnail: sloim.png
-  url: https://www.cs.tufts.edu/~slonim/
-
-
-- title: Mike Calderwood
-  name: MikeDFCI
-  subtitle: Dana-Farber Cancer Institute
-  thumbnail: mike.png
-  url: https://ccsb.dana-farber.org/mike.html
-
-
-- title: Dariusz Plewczynski
-  name: PlewczynskiLab
-  subtitle: Warsaw University of Technology
-  thumbnail: dariusz.png
-  url: https://plewczynski-lab.org/
+- title: ""
+  name: ""
+  subtitle: ""
+  thumbnail: ""
+  url: ""
