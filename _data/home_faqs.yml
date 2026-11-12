@@ -1,35 +1,36 @@
 - inverted: timeline-inverted
   img: icon-about.jpeg
-  name: What is NetBioMed 2026?
+  name: What is NetBioMed 2027?
   info: Read more about our symposium
   link: /about
 
-- inverted: 
-  img: icon-faq.jpeg
-  name: Submission guidelines
-  info: Submissions are open
-  link: /submission
-
-- inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out our program
-  link: /agenda
-
-- inverted: 
-  img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
-  link: /venue
-
-- inverted: timeline-inverted
+- inverted:
   img: icon-team.jpeg
   name: Organization
   info: Find out the organizers
   link: /team
 
-- inverted:
-  img: booklet-icon.png
-  name: Sponsorship
-  info: Learn how to become a sponsor
-  link: /sponsors
+#- inverted: 
+#  img: icon-faq.jpeg
+#  name: Submission guidelines
+#  info: Submissions are open
+#  link: /submission
+
+#- inverted: timeline-inverted
+#  img: icon-agenda.jpeg
+#  name: Agenda
+#  info: Check out our program
+#  link: /agenda
+
+#- inverted: 
+#  img: icon-venue.jpeg
+#  name: Venue
+#  info: Learn more about our location
+#  link: /venue
+
+
+#- inverted:
+#  img: booklet-icon.png
+#  name: Sponsorship
+#  info: Learn how to become a sponsor
+#  link: /sponsors
