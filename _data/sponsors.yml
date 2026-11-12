@@ -1,14 +1,5 @@
 - name: "First Row"
   row:
-    - name: PEPR Cell-ID
-      img: Cell_ID_couleur.png
-      contact: https://www.pepr-cell-id.fr/
-    - name: CBeRa Project
-      img: CBeRa_Logo_02.png
-      contact: https://www.cberaproject.eu/
-    - name: PLOS Complex Systems
-      img: PLOS.png
-      contact: https://journals.plos.org/complexsystems/
-    - name: NetBio COSI
-      img: netbio_cosi.png
-      contact: https://cosi.iscb.org/wiki/NetBio:Home
+    - name: TBD
+      img: TBD.jpg
+      contact: TBD
